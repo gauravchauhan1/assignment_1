@@ -1,0 +1,14 @@
+.navbar{
+    height: 5rem;
+    background-color: white !important;
+}
+
+.navbar-brand{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 5px solid #f8f9fa;
+}
+.navbar-brand:hover{
+    border-bottom: 5px solid;
+    border-bottom-color: #00DF2A;
+}

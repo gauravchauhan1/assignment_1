@@ -1,0 +1,18 @@
+.content-body{
+    height: 100vw;
+    background-color:#EBECF0;
+}
+.content-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+}
+
+.content-body .btn{
+    background-color: #00DF2A;
+    color:white;
+    font-weight: 400;
+    font-size: large;
+    margin: 0.5rem 1rem;
+}

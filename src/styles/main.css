@@ -1,0 +1,38 @@
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.main-content{
+    width: 100%;
+}
+.sidebar{
+    display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    
+        height: 100vw;
+        width: 400px;
+        font-family: raleway;
+        background: #00DF2A;
+}
+.brand{
+    display:flex;
+    flex-direction: row;
+    padding:2rem;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+}
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color:white;
+    font-size: 20px;
+}
+
+.item .icon{
+    padding: 0 1rem;
+}

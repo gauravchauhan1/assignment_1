@@ -1,0 +1,20 @@
+.brand{
+    padding: 3rem;
+}
+.brand h3{
+    justify-content: center;
+    font-weight: 300;
+}
+
+.section{
+
+}
+
+.item{
+    
+    justify-content: left;
+    padding: 1rem;
+}
+.item .icon{
+    padding-left: 2rem;
+}
